@@ -1,0 +1,24 @@
+
+{
+  "short_name": "NomadMesh",
+  "name": "Nomad Mesh OffGrid Tracker",
+  "description": "Tactical off-grid group tracking via Bluetooth mesh.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2592/2592317.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2592/2592317.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#020617",
+  "background_color": "#020617",
+  "orientation": "portrait"
+}

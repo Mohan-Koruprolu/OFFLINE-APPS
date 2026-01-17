@@ -1,0 +1,9 @@
+{
+  "name": "Copy of OffGrid Nomad Tracker",
+  "description": "A safety-focused group tracking application that uses Bluetooth signals to monitor distances between group members in off-grid environments and alerts the group if anyone wanders too far.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "bluetooth"
+  ]
+}
